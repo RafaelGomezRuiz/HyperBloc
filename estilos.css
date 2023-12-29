@@ -7,6 +7,13 @@ body {
     padding: 0;
 }
 
+#footer{
+    
+    text-align: center;
+    background-color: #33a;
+    color: aqua;
+}
+
 #cabecera {
     background: #33a;
     box-shadow: 0 2px 20px 0 rgba(0, 0, 0, 0.5);
