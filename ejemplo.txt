@@ -3,4 +3,6 @@ sasasa
 ahoea sii sss
 ++
 --
+
+okok
 cambios para usar git reset --shead
