@@ -1,5 +1,12 @@
 klk wawawa!
 sasasa
 ahoea sii sss
+********
+/////////
+extra
 
+++
+--
+
+okok
 cambios para usar git reset --shead
