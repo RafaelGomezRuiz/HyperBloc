@@ -10,12 +10,12 @@ body {
 #footer{
     
     text-align: center;
-    background-color: #33a;
+    background-color: red;
     color: aqua;
 }
 
 #cabecera {
-    background: #33a;
+    background: red;
     box-shadow: 0 2px 20px 0 rgba(0, 0, 0, 0.5);
     color: #fff;
     font-weight: 700;
